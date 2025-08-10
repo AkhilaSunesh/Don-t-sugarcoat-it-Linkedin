@@ -69,9 +69,14 @@ git clone https://github.com/username/linkedin-lie-detector.git
 cd linkedin-lie-detector
 ```
 # Screenshots (Add at least 3)
-<img width="1441" height="828" alt="image" src="https://github.com/user-attachments/assets/ad33257c-66f5-4c43-aae3-d5ea716bca1d" />
-<img width="1349" height="587" alt="image" src="https://github.com/user-attachments/assets/2e67246d-8ae9-4539-84c5-e7898e1fc59a" />
-<img width="1383" height="869" alt="image" src="https://github.com/user-attachments/assets/405879f2-e84f-4c4e-a0dd-69aa3f567d66" />
+<img width="1440" height="849" alt="image" src="https://github.com/user-attachments/assets/d6b7da8d-a312-4f94-9cc9-46e2f566f1d9" />
+<img width="1438" height="758" alt="image" src="https://github.com/user-attachments/assets/088fd8fd-9c39-479e-ae62-7b36b0295d56" />
+<img width="1390" height="695" alt="image" src="https://github.com/user-attachments/assets/09fd25ee-7782-4841-9b10-91200c4ec3c0" />
+<img width="1411" height="861" alt="image" src="https://github.com/user-attachments/assets/d6ee91b6-3805-4212-a462-f59cb8a26857" />
+
+
+
+
 
 
 # Video
