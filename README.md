@@ -8,8 +8,7 @@
 ### Team Name: Sphinx
 ### Team Members
 - Team Lead: Akhila Sunesh - Saintgits College of Engineering
-- Member 2: Akshay Joseph - Saintgits College of Engineering
-- 
+
 ### Project Description
 LinkedIn Lie Detector — The world absolutely didn’t ask for this, but here it is: an AI that judges how fake your humblebrag LinkedIn post sounds, rewrites it so you sound like a human, adds sarcastic or polite comments, and pretends you’re a 5M-follower influencer. 
 
