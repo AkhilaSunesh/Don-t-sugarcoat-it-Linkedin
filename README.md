@@ -20,8 +20,6 @@ LinkedIn Lie Detector — The world absolutely didn’t ask for this, but here i
 - **Brutally Honest Comments** – Auto-generate short, straight-to-the-point roasts.
 - **Post Drama Mode** – Rewrite your brag into a chaotic, sleep-deprived story.
 - **Influencer Simulator** – Pretend you have 5M followers with fake likes, comments, and reposts.
-- **Leaderboard** – Rank the hollowest posts of the week.
-
 ---
 
 ## 🤡 The Problem (that doesn’t exist)
